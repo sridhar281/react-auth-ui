@@ -7,8 +7,8 @@ import {
 } from "react-router-dom";
 import Login from './pages/auth/Login';
 import SignUp from './pages/auth/SignUp';
-import Home from './pages/dashboard/home';
-import Expense from './pages/dashboard/expense';
+import Home from './pages/dashboard/Home';
+import Expense from './pages/dashboard/Expense';
 import Income from './pages/dashboard/Income';
 const App = () => {
   return (
